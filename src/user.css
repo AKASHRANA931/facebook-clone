@@ -1,0 +1,30 @@
+.user{
+        margin-top: 30px;
+        margin-right: 30px;
+        padding: 15px 25px;
+        background-color: white;
+        border-radius: 15px;
+        box-shadow: 0px 5px 7px -7px rgba(0 ,0, 0.75);
+        width:320px;
+        height:80px;
+}
+.usertop{
+    display: flex;
+}
+.userinfo{
+    display: flex;
+    margin-left: 20px;
+    margin-top: 10px;
+    font-size: 20px ;
+}
+.user > button{
+    display: flex;
+    float: right;
+    justify-content: ;
+    padding-left: 30px;
+    padding-right:30px;
+    margin-left: 40px;
+    font-weight: 600;
+    margin-top: -5px;
+    
+}
